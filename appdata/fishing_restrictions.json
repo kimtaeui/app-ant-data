@@ -10,7 +10,7 @@
     ]
   },
   "notice": {
-    "enabled": true,
+    "enabled": false,
     "title": "공지사항",
     "message": "공공데이터 서버 점검으로 일부 수위 조회가 지연될 수 있습니다."
   }

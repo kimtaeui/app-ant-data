@@ -1,7 +1,25 @@
 {
-  "version": 2,
-  "updatedAt": "2026-08-06T14:40:00+09:00",
-  "restrictions": [],
+  "version": 3,
+  "updatedAt": "2026-08-06T16:38:00+09:00",
+  "restrictions": [
+    {
+      "province": "경북",
+      "city": "구미시",
+      "name": "금오산",
+      "status": "RELEASED"
+    },
+    {
+      "province": "경북",
+      "city": "구미시",
+      "name": "창림",
+      "status": "PROHIBITED",
+      "designatedDate": "2026-08-06",
+      "reason": "낚시금지구역 지정 테스트",
+      "source": "GitHub 원격 적용 테스트",
+      "latitude": 36.222343,
+      "longitude": 128.3954
+    }
+  ],
   "ticker": {
     "enabled": true,
     "messages": [

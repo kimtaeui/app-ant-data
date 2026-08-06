@@ -1,5 +1,17 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-08-06T14:40:00+09:00",
-  "items": []
+  "restrictions": [],
+  "ticker": {
+    "enabled": true,
+    "messages": [
+      "무더운 날씨에는 충분히 수분을 섭취하세요.",
+      "낚시 전 저수지 수위와 주변 날씨를 확인하세요."
+    ]
+  },
+  "notice": {
+    "enabled": false,
+    "title": "공지사항",
+    "message": "공공데이터 서버 점검으로 일부 수위 조회가 지연될 수 있습니다."
+  }
 }

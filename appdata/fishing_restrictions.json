@@ -1,7 +1,19 @@
 {
   "version": 2,
   "updatedAt": "2026-08-06T14:40:00+09:00",
-  "restrictions": [],
+  "restrictions": [
+    {
+      "province": "경북",
+      "city": "구미",
+      "name": "삼산지",
+      "status": "PROHIBITED",
+      "designatedDate": "2026-08-06",
+      "reason": "테스트",
+      "source": "테스트",
+      "latitude": 36.140757,
+      "longitude": 128.5346
+    }
+  ],
   "ticker": {
     "enabled": true,
     "messages": [

@@ -1,11 +1,11 @@
 {
-  "version": 3,
-  "updatedAt": "2026-08-06T16:38:00+09:00",
+  "version": 5,
+  "updatedAt": "2026-08-06T16:48:00+09:00",
   "restrictions": [
     {
       "province": "경북",
-      "city": "구미시",
-      "name": "금오산",
+      "city": "구미",
+      "name": "금오",
       "status": "RELEASED"
     },
     {
